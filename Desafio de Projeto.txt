@@ -1,0 +1,21 @@
+Desafio de Projeto:
+
+<h1> até <h6> -> OK!
+<p> -> OK!
+<mark> -> OK!
+<small> -> OK!
+<i> -> OK!
+<u> -> OK!
+<strong> -> OK!
+<ol> -> OK!
+<ul> -> OK!
+<li> -> OK!
+<a> -> OK!
+<hr> -> OK!
+<sub> -> ok!
+<sup> ok!
+<blockquote> OK!
+*****
+<font> OK!
+<del> OK!
+<abbr> OK!
